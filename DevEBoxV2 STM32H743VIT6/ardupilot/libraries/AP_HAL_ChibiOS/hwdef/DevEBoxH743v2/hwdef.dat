@@ -1,5 +1,5 @@
 # hw definition file for processing by chibios_pins.py
-# for DevEBox H743vit6 hardware based on SPRacingH7 pinout
+# for DevEBox H743vit6 hardware based on DevEBoxH7v2 pinout
 # configured to boot from external flash
 
 # MCU class and specific type
